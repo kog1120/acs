@@ -1,3 +1,4 @@
+/*
 #include "ACInclude.h"
 #include "../fmodinc/fmod.h"
 #include "ACSound.h"
@@ -14,3 +15,4 @@ void GCSound::Play(int volume)
 	FSOUND_SetVolume(_channel, volume);
 	FSOUND_SetLoopMode(_channel, FSOUND_LOOP_NORMAL);
 }
+*/
