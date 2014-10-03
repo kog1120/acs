@@ -1,3 +1,4 @@
+/*
 #pragma once
 
 #pragma comment(lib, "fmodvc.lib")
@@ -14,3 +15,4 @@ private:	// Sound
 	FSOUND_STREAM* _stream;
 	int            _channel;
 };
+*/
