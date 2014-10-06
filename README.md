@@ -1,7 +1,7 @@
 
 Game engine
 
-programmer, no programmer
+target : programmer, no programmer
 
 (delete ACsound.h, cpp) 
 
