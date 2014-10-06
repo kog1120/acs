@@ -5,6 +5,6 @@ programmer, no programmer
 
 (delete ACsound.h, cpp) 
 
-C/C++ + directX
-java + opengl
-js + webgl
+C/C++ + directX<br>
+java + opengl<br>
+js + webgl<br>
